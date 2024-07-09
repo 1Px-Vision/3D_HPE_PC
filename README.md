@@ -7,7 +7,7 @@ environments.
 
 # Project Description
 In this work, we explore using an SPI camera operating in the NIR range, with Time-of-Flight (TOF) technology at wavelengths of 850-1550 nm, to detect humans in nighttime environments. 
-Our proposed system employs SPI for depth estimation and feature extraction in humans. These features are then used to generate point clouds integrated into a 3D body model (SMPLX) via 3D body 
+Our proposed system employs SPI for depth estimation and feature extraction in humans. These features then generate point clouds integrated into a 3D body model (SMPLX) via 3D body 
 shape regression. This process utilizes deep learning techniques based on self-supervised 3D human mesh methodologies.
 
 ![](https://github.com/1Px-Vision/3D_HPE_PC/blob/main/3D_HPE_Model.jpg)
@@ -16,6 +16,8 @@ shape regression. This process utilizes deep learning techniques based on self-s
 
 We constructed a laboratory scenario simulating night-time conditions to evaluate the efficacy of NIR-SPI 3D image reconstruction. This setup allowed us to test the feasibility of using NIR-SPI as a vision 
 sensor in outdoor environments.
+
+![](https://github.com/1Px-Vision/3D_HPE_PC/blob/main/3D_result_HPE.jpg)
 
 # Results and Future Work
 By assessing the results obtained from this setup, we aim to demonstrate the potential of NIR-SPI as an effective tool for detecting humans in night-time scenarios and accurately capturing their 3D body pose 
