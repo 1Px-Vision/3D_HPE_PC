@@ -22,3 +22,5 @@ sensor in outdoor environments.
 # Results and Future Work
 By assessing the results obtained from this setup, we aim to demonstrate the potential of NIR-SPI as an effective tool for detecting humans in night-time scenarios and accurately capturing their 3D body pose 
 and shape. This work has future applications in environmental rescue and other fields requiring reliable human detection and pose estimation in low-light conditions.
+
+![](https://github.com/1Px-Vision/3D_HPE_PC/blob/main/3D_future_HPE.jpg)
